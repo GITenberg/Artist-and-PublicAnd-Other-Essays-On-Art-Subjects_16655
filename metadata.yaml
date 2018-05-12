@@ -1,0 +1,29 @@
+_repo: Artist-and-PublicAnd-Other-Essays-On-Art-Subjects_16655
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cox, Kenyon
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '6848'
+    url: http://www.gutenberg.org/2009/agents/6848
+    wikipedia: http://en.wikipedia.org/wiki/Kenyon_Cox
+description: ''
+gutenberg_issued: '2005-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Art'
+tableOfContents: Artist and public -- Jean François Millet -- The illusion of progress
+  -- Raphael -- Two ways of painting -- The American school -- Augustus Saint-Gaudens.
+title: Artist and Public, and Other Essays on Art Subjects
+url: http://www.gutenberg.org/ebooks/16655
